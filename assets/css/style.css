@@ -348,6 +348,7 @@
     height: 400px;
     overflow: hidden;
     border-radius: 10px;
+    background-color: rgba(229, 84, 115, 0.192);
 }
 
 .bonus-img-gallery img {
