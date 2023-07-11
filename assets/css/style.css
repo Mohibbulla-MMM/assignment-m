@@ -262,15 +262,13 @@
 
 /* ------------------- footer setion ---------------------------- */
 .mm-footer-section {
-    width: 100%;
+    width: 130%;
     height: 450px;
+    margin-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: black;
-
-
-
 }
 
 .mm-footer-box h1 {
@@ -279,10 +277,13 @@
     text-align: center;
 }
 
+/* footer title  */
+
 .mm-footer-box h1 span {
     color: #E55473;
 }
 
+/* footer   designation  */
 .mm-footer-box .footer-description {
     font-size: 18px;
     text-align: center;
@@ -291,10 +292,9 @@
     margin-bottom: 30px;
 }
 
+/* footer copy right  */
 .mm-footer-box .copy-ritht-footer {
     font-size: 16px;
     text-align: center;
     color: rgba(255, 255, 255, 0.40);
-
-
 }
