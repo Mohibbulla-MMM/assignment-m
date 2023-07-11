@@ -1,0 +1,42 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px;
+    color: #272727;
+    line-height: 1.2em;
+}
+
+p {
+    font-size: 18px;
+    color: #27272799;
+    line-height: 1.3em;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* section left and right padding  */
+.rtl-padding {
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+/* achor tag used  */
+.mm-global-pink-btn {
+    display: inline-block;
+    padding: 20px 45px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #fff;
+    background-color: #E55473;
+    border-radius: 8px;
+
+}
