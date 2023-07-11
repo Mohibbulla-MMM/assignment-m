@@ -234,9 +234,28 @@
     flex-basis: 80%;
     padding: 0;
     width: 100%;
+
 }
 
 .mm-sec-5-form .submit {
     flex-basis: 20%;
+    display: block;
+    width: 100%;
+}
+
+.mm-sec-5-form input {
     padding: 20px 45px;
+    border-radius: 8px;
+    border: 0;
+}
+
+.mm-sec-5-form .text input {
+    background-color: #fff;
+    font-size: 16px;
+}
+
+.mm-sec-5-form .submit input {
+    background-color: #E55473;
+    font-size: 20px;
+    color: #fff;
 }
