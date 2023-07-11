@@ -262,7 +262,7 @@
 
 /* ------------------- footer setion ---------------------------- */
 .mm-footer-section {
-    width: 130%;
+    width: 100%;
     height: 450px;
     margin-top: 100px;
     display: flex;
@@ -278,7 +278,6 @@
 }
 
 /* footer title  */
-
 .mm-footer-box h1 span {
     color: #E55473;
 }
@@ -298,3 +297,6 @@
     text-align: center;
     color: rgba(255, 255, 255, 0.40);
 }
+
+
+
