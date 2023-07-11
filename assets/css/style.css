@@ -259,3 +259,42 @@
     font-size: 20px;
     color: #fff;
 }
+
+/* ------------------- footer setion ---------------------------- */
+.mm-footer-section {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+
+
+
+}
+
+.mm-footer-box h1 {
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+}
+
+.mm-footer-box h1 span {
+    color: #E55473;
+}
+
+.mm-footer-box .footer-description {
+    font-size: 18px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.90);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.mm-footer-box .copy-ritht-footer {
+    font-size: 16px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.40);
+
+
+}
